@@ -18,4 +18,4 @@ tags:
 
 ## 正文
 
-本次博客的搭建主要采用了Jekyll + Gihub Pages。具体实现细节，明天再补。
+本次博客的搭建用到了Jekyll + Github Pages。具体实现细节，明天再补。
