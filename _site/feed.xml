@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>致远</title>
+    <description></description>
+    <link>distancez.github.io/</link>
+    <atom:link href="distancez.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 20 Mar 2016 23:55:02 +0800</pubDate>
+    <lastBuildDate>Sun, 20 Mar 2016 23:55:02 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>欢迎来到『致远』</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;前言&lt;/h2&gt;
+
+&lt;p&gt;终于, 我的博客『致远』开通了。&lt;/p&gt;
+
+&lt;p&gt;2015 年，总算有个地方可以好好写点东西了。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;正文&lt;/h2&gt;
+
+&lt;p&gt;本次博客的搭建采用了Jekyll + Gihub Pages 的技术。&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 21 Mar 2015 06:00:00 +0800</pubDate>
+        <link>distancez.github.io/2015/03/21/hello/</link>
+        <guid isPermaLink="true">distancez.github.io/2015/03/21/hello/</guid>
+        
+        <category>Life</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

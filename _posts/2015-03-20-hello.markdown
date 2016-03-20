@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "欢迎来到『致远』"
+subtitle:   " \"非淡泊无以明志，非宁静无以致远\""
+date:       2015-03-20 22:00:00
+author:     "Distancez"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Life
+---
+
+
+## 前言
+
+终于, 我的博客『致远』开通了。
+
+2015 年，总算有个地方可以好好写点东西了。
+
+---
+
+## 正文
+
+本次博客的搭建采用了Jekyll + Gihub Pages 的技术。
+
+
